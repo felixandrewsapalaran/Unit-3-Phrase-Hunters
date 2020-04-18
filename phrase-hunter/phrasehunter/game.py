@@ -31,6 +31,18 @@ class Game:
     def run(self):
         """
         This is the game's main loop, which
+        keeps playing a new game until the user decides not to
+        play any more
+        """
+        while True:
+            self.play_game()
+            if input("Do you want to play again? [yN]").strip().lower() != "y":
+                break
+        print("Thank you for playing phrasehunter, good-bye!")
+
+    def play_game(self):
+        """
+        This is the core game loop, which
         repeatedly displays the current phrase (masking
         un-guessed letters) and prompts for input
         """
