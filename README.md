@@ -37,3 +37,6 @@ Here is the result of my code review
 ![](/Result/9.png)
 ![](/Result/10.png)
 ![](/Result/11.png)
+
+Here's a sample output
+![](/output.png)
