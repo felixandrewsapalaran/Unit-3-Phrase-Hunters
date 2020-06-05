@@ -1,3 +1,12 @@
+"""
+Python Web Development Techdegree
+Project 3 - Phrase Hunters
+
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
+
 # Import your Game class
 from phrasehunter import Game
 
