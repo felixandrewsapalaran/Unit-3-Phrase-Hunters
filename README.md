@@ -24,7 +24,7 @@ Createa word guessing game: "Phrase Hunter." You'll use Python and OOP(Object-Or
 (In this proram our source code must be submitted for a review. The reviewer will determine whether we pass or fail to follow the instructions given before moving forward)
 
 
-Here is the result of my code review
+Here is the result of my code review:
 
 ![](/Result/1.png)
 ![](/Result/2.png)
