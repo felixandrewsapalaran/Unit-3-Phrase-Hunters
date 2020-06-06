@@ -1,3 +1,11 @@
+"""
+Python Development Techdegree
+Project 3 - Phrase Hunters
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
+
 # Create your Game class logic in here.
 # We'll need the random module (built-in to the standard library in Python)
 # in order to select a random phrase
