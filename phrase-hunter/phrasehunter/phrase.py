@@ -1,3 +1,10 @@
+"""
+Python Development Techdegree
+Project 3 - Phrase Hunters
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
 # Create your Phrase class logic here.
 from .character import Character
 
