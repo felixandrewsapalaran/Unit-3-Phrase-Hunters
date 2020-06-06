@@ -1,3 +1,10 @@
+"""
+Python Development Techdegree
+Project 3 - Phrase Hunters
+Author: Felix Andrew Sapalaran (felixandrewsapalaran@gmail.com)
+---------------------------------------------------------------
+"""
+
 # Create your Character class logic in here.
 
 class Character:
